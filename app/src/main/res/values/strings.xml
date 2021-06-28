@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">GlobalKinetic</string>
+
+    <string name="temp_image">main</string>
 </resources>
