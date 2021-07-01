@@ -1,5 +1,16 @@
 <resources>
-    <string name="app_name">GlobalKinetic</string>
+    <string name="app_name">Weather</string>
 
     <string name="temp_image">main</string>
+    <string name="min">min</string>
+    <string name="max">max</string>
+
+    <string name="temp_current">38°</string>
+    <string name="temp_feeling">it feels like 44°</string>
+    <string name="temp_max">20°</string>
+    <string name="temp_min">17°</string>
+    <string name="max_mock">Max : 30°</string>
+    <string name="min_mock">Min : 26°</string>
+
+    <string name="gps_disable_error">Please enable GPs</string>
 </resources>
