@@ -30,11 +30,9 @@ class MainActivity : AppCompatActivity(), LocationListener {
     private lateinit var locationManager: LocationManager
     private val locationPermissionCode = 2
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
 
         if (ContextCompat.checkSelfPermission(this@MainActivity,
                         Manifest.permission.ACCESS_FINE_LOCATION) !==
