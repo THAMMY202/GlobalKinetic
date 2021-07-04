@@ -5,6 +5,6 @@ API:
 Tools:
 1. Android Studio
 
-Dependences:
+Dependencies:
 1. Volley
 2. Gson
