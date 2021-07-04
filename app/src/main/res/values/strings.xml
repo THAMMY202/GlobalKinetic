@@ -14,4 +14,6 @@
 
     <string name="gps_disable_error">Please enable GPs</string>
     <string name="get_location">Get location</string>
+    <string name="city_name">Durban</string>
+    <string name="update_location">UPDATE LOCATION</string>
 </resources>
