@@ -1,6 +1,6 @@
 
 # GlobalKinetic
-This is an Android weather app developed with kotlin, below are Tech stack used during development of this product.
+This project is on creating an Android Weather App using Kotlin. To get the weather information I used OpenWeatherMap API. Informations like Temperature, Pressure, Humidity, Weather status, Time of Sunrise and Sunset etc. are passed from the API. below are Tech stack used during development of this product.
 
 API: 
 Tools:
