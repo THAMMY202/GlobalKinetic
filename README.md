@@ -1,5 +1,5 @@
 # GlobalKinetic
-This is an Android weather app developed with kotlin, below are tech stack used during development of this product.
+This is an Android weather app developed with kotlin, below are Tech stack used during development of this product.
 
 API: 
 Tools:
